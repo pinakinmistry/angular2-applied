@@ -6,7 +6,7 @@
 * [Templates](templates.md)
 * [Services](services.md)
 * [Routing](routing.md)
-* Forms
+* [Forms](forms.md)
 * Server Side Communication
 * Testing
 
