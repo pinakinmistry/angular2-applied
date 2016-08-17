@@ -2,4 +2,5 @@
 
 * Hello Angular 2
 * Tooling
+* Components
 
