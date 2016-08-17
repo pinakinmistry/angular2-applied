@@ -3,7 +3,7 @@
 * [Hello Angular 2](hello_angular_2.md)
 * [Tooling](tooling.md)
 * [Components](components.md)
-* Templates
+* [Templates](templates.md)
 * Services
 * Routing
 * Forms
