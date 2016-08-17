@@ -1,12 +1,11 @@
 # Summary
 
-* [Hello Angular 2](hello_angular_2.md)
-* [Tooling](tooling.md)
-* [Components](components.md)
-* [Templates](templates.md)
-* [Services](services.md)
-* [Routing](routing.md)
-* [Forms](forms.md)
-* [Server Side Communication](server_side_communication.md)
-* [Testing](testing.md)
-
+* [Hello Angular 2](00_hello_angular_2.md)
+* [Tooling](01_tooling.md)
+* [Components](02_components.md)
+* [Templates](03_templates.md)
+* [Services](04_services.md)
+* [Routing](05_routing.md)
+* [Forms](06_forms.md)
+* [Server Side Communication](07_server_side_communication.md)
+* [Testing](08_testing.md)
