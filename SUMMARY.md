@@ -4,7 +4,7 @@
 * [Tooling](tooling.md)
 * [Components](components.md)
 * [Templates](templates.md)
-* Services
+* [Services](services.md)
 * Routing
 * Forms
 * Server Side Communication
