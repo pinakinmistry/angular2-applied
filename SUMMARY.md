@@ -1,7 +1,7 @@
 # Summary
 
 * [Hello Angular 2](hello_angular_2.md)
-* Tooling
+* [Tooling](tooling.md)
 * Components
 * Templates
 * Services
