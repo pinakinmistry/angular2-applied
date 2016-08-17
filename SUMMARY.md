@@ -7,6 +7,6 @@
 * [Services](services.md)
 * [Routing](routing.md)
 * [Forms](forms.md)
-* Server Side Communication
+* [Server Side Communication](server_side_communication.md)
 * Testing
 
